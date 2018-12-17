@@ -103,14 +103,14 @@
                             <!-- form nama -->
                             <div class="form-group">
                                 <label>NIM*</label>
-                                <input type="text" pattern="[0-9]+" class="form-control" name="nis" placeholder="NIS" required/>
+                                <input type="text" pattern="[0-9]+" class="form-control" name="nis" placeholder="NIM" required/>
                             </div>
                             <!-- end form nama -->
 
                             <!-- form nama -->
                             <div class="form-group">
                                 <label>Nama*</label>
-                                <input type="text" pattern="[A-Za-z]+" class="form-control" name="nama" placeholder="Nama" required/>
+                                <input type="text" class="form-control" name="nama" placeholder="Nama" required/>
                             </div>
                             <!-- end form nama -->
 

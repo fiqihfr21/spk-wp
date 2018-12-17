@@ -13,7 +13,7 @@
 <body>
     <div class="kop-surat">
         <div class="title-center">
-            <h2>SMK Perwira Bangsa</h2>
+            <h2>Sistem Pendukung Keputusan Penerima Beasiswa</h2>
         </div>
         <hr/>
     </div>
